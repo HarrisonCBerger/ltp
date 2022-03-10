@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[52],{712:function(n,a,e){"use strict";e.r(a);e(149),e(318),e(29),e(150);var o=e(57),i=e(90),t=e(337),r=o.a.extend({el:"body",initialize:function(){Array.from(this.$(".language-pref-footer")).forEach((function(n){Object(t.a)({node:n,variant:i.a.SELECT_DARK})}))}});a.default=r}}]);
+//# sourceMappingURL=pages-common-footer.build.a01bdade18395b47b447.min.js.map
